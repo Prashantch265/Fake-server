@@ -1,0 +1,18 @@
+{
+    "expenses": [
+        {
+            "id": 1,
+            "name": "Electricity Bill",
+            "amount": 500,
+            "date": "2020-07-18",
+            "payment": false
+        },
+        {
+            "id": 2,
+            "name": "Telephone Bill",
+            "amount": 500,
+            "date": "2020-06-20",
+            "payment": false
+        }
+    ]
+}
