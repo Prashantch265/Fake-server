@@ -1,42 +1,36 @@
 {
     "expenses": [
         {
-            "id": 1,
             "name": "Gas",
             "amount": 500,
             "date": "2020-07-21",
             "payment": false
         },
         {
-            "id": 2,
             "name": "Groceries",
             "amount": 500,
             "date": "2020-07-20",
             "payment": false
         },
         {
-            "id": 3,
             "name": "Electricity Bill",
             "amount": 500,
             "date": "2020-07-18",
             "payment": false
         },
         {
-            "id": 4,
             "name": "Rent",
             "amount": 500,
             "date": "2020-07-04",
             "payment": false
         },
         {
-            "id": 5,
             "name": "Internet Subscription",
             "amount": 500,
             "date": "2020-07-2",
             "payment": false
         },
         {
-            "id": 6,
             "name": "Telephone Bill",
             "amount": 500,
             "date": "2020-06-20",
